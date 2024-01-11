@@ -20,14 +20,14 @@ header {
 .add-new {
   padding: 10px 15px;
   margin-left: 20px;
-  background-color: #007bff;
+  background-color: grey;
   color: white;
   border: none;
   cursor: pointer;
 }
 
 .add-new:hover {
-  background-color: #0056b3;
+  background-color: darkgrey;
 }
 
 .search {
